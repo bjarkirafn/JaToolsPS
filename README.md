@@ -11,7 +11,7 @@ By participating, you are expected to uphold this code. Please report unacceptab
 
 ## Documentation
 
-Check out our **[documentation](https://github.com/bjarkirafn/JaToolsPS/tree/master/docs/en-US/JaTools.md)** for information about how to use this project.
+<!-- Check out our **[documentation](https://github.com/bjarkirafn/JaToolsPS/tree/master/docs/en-US/JaTools.md)** for information about how to use this project. -->
 
 <!-- ## Installation
 
@@ -23,23 +23,23 @@ Install-Module JaCore -Scope CurrentUser
 
 ### Source
 
-```powershell
+<!-- ```powershell
 git clone 'https://github.com/bjarkirafn/JaToolsPS.git'
 Set-Location .\JaToolsPS
 Invoke-Build -Task Install
-```
+``` -->
 
 ## Usage
 
-### First example
+<!-- ### First example
 
 ```powershell
 Import-Module JaTools
-```
+``` -->
 
-Imports JaTools into the current session.
+<!-- Imports JaTools into the current session. -->
 
-## Contributions Welcome!
+<!-- ## Contributions Welcome!
 
 We would love to incorporate community contributions into this project.  If you would like to
-contribute code, documentation, tests, or bug reports, please read our [Contribution Guide](https://github.com/bjarkirafn/JaCore/tree/master/docs/CONTRIBUTING.md) to learn more.
+contribute code, documentation, tests, or bug reports, please read our [Contribution Guide](https://github.com/bjarkirafn/JaCore/tree/master/docs/CONTRIBUTING.md) to learn more. -->
