@@ -77,6 +77,16 @@ PrivateData = @{
         # ReleaseNotes of this module
         # ReleaseNotes = ''
 
+        Extensions = @(
+            @{
+                Module = "PoshRSJob"
+                MinimumVersion = "1.7.4.4"
+                # Details = @{
+                #
+                # }
+            }
+        )
+
     } # End of PSData hashtable
 
 } # End of PrivateData hashtable

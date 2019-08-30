@@ -1,3 +1,18 @@
+
+try {
+  Import-Module PoshRSJob -ErrorAction Stop
+}
+catch {
+  Write-Warning "`r`nPoshRSJob Module needs to be installed."
+  $result = Read-Host -prompt "Do you want me to install it for you? [no\Yes]"
+
+  if ($result -like '' -or $result.startswith('y')) {
+    Install-Module PoshRSJob -Scope CurrentUser -PassThru
+    Import-Module PoshRSJob
+  }
+}
+
+
 function stop {
   param([string]$Name)
   if ($name) {
