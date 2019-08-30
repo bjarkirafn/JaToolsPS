@@ -1,6 +1,6 @@
 # JaTools WIP!!
 
-JaTools is a PowerShell module that needs a description.
+JaTools is my personal little Oompa Loompas for Powershell development.
 
 This project adheres to the Contributor Covenant [code of conduct](https://github.com/bjarkirafn/JaCore/tree/master/docs/CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report unacceptable behavior to bjarkirafn@gmail.com.
